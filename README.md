@@ -1,5 +1,3 @@
-# telkomsel-device-bundling-analysis
-Data quality and IMEI validation analysis for Telkomsel Device Bundling using Python.
 # Telkomsel Device Bundling — Data Quality & IMEI Validation
 
 **Capstone Project Modul 3 — Business Data Analytics**  
